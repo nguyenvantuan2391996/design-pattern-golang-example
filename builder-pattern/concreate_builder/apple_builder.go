@@ -20,7 +20,7 @@ func (o *AppleBuilder) SetPrice(in *product.InfoInput) {
 
 func (o *AppleBuilder) SetDiscount(in *product.InfoInput) {
 	if in.Amount > 10 {
-		o.Discount = in.Discount - 5
+		o.Discount = in.Discount + 5
 	}
 }
 
