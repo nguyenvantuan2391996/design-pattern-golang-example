@@ -20,7 +20,7 @@ func (o *OrangeBuilder) SetPrice(in *product.InfoInput) {
 
 func (o *OrangeBuilder) SetDiscount(in *product.InfoInput) {
 	if in.Amount > 10 {
-		o.Discount = in.Discount - 2
+		o.Discount = in.Discount + 2
 	}
 }
 
