@@ -20,11 +20,10 @@ func main() {
 	directorApple := director.NewDirector(builderApple)
 	outApple := directorApple.BuildOutput(in)
 
-	fmt.Println(outApple.MoneyPayment)
-
 	builderOrange := builder.GetFruitBuilder(constant.Orange)
 	directorOrange := director.NewDirector(builderOrange)
 	outOrange := directorOrange.BuildOutput(in)
 
-	fmt.Println(outOrange.MoneyPayment)
+	fmt.Printf("Pay for orange : $%v\n", outOrange.MoneyPayment)
+	fmt.Printf("Pay for apple : $%v\n", outApple.MoneyPayment)
 }
