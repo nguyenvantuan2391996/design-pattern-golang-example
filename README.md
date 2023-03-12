@@ -20,3 +20,5 @@
 
 ### Structural pattern
 
+- [Decorator](https://github.com/nguyenvantuan2391996/design-pattern-golang-example/tree/master/decorator-pattern)
+
