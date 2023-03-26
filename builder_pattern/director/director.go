@@ -1,8 +1,8 @@
 package director
 
 import (
-	"design-pattern-golang-example/builder-pattern/builder"
-	"design-pattern-golang-example/builder-pattern/product"
+	"design-pattern-golang-example/builder_pattern/builder"
+	"design-pattern-golang-example/builder_pattern/product"
 )
 
 type Director struct {

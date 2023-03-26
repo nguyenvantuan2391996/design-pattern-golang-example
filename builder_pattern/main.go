@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"design-pattern-golang-example/builder-pattern/builder"
-	"design-pattern-golang-example/builder-pattern/constant"
-	"design-pattern-golang-example/builder-pattern/director"
-	"design-pattern-golang-example/builder-pattern/product"
+	"design-pattern-golang-example/builder_pattern/builder"
+	"design-pattern-golang-example/builder_pattern/constant"
+	"design-pattern-golang-example/builder_pattern/director"
+	"design-pattern-golang-example/builder_pattern/product"
 )
 
 func main() {

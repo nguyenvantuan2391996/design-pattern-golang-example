@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	concreteComponent "design-pattern-golang-example/decorator-pattern/concrete-component"
-	concreteDecorator "design-pattern-golang-example/decorator-pattern/concrete-decorator"
+	concreteComponent "design-pattern-golang-example/decorator_pattern/concrete_component"
+	concreteDecorator "design-pattern-golang-example/decorator_pattern/concrete_decorator"
 )
 
 func main() {

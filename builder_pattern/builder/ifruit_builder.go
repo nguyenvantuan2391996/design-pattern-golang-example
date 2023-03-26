@@ -1,9 +1,9 @@
 package builder
 
 import (
-	"design-pattern-golang-example/builder-pattern/concreate_builder"
-	"design-pattern-golang-example/builder-pattern/constant"
-	"design-pattern-golang-example/builder-pattern/product"
+	"design-pattern-golang-example/builder_pattern/concreate_builder"
+	"design-pattern-golang-example/builder_pattern/constant"
+	"design-pattern-golang-example/builder_pattern/product"
 )
 
 type IFruitBuilder interface {
