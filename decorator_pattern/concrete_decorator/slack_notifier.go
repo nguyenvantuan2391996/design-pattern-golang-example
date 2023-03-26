@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"design-pattern-golang-example/decorator-pattern/component"
+	"design-pattern-golang-example/decorator_pattern/component"
 )
 
 type SlackNotifier struct {

@@ -1,6 +1,6 @@
 package concreate_builder
 
-import "design-pattern-golang-example/builder-pattern/product"
+import "design-pattern-golang-example/builder_pattern/product"
 
 type AppleBuilder struct {
 	Price        float64
