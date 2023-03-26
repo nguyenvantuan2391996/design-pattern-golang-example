@@ -15,6 +15,7 @@
 ### Creational pattern
 
 - [Builder](https://github.com/nguyenvantuan2391996/design-pattern-golang-example/tree/master/builder-pattern)
+- [Factory](https://github.com/nguyenvantuan2391996/design-pattern-golang-example/tree/master/factory_pattern)
 
 ### Behavioral pattern
 
